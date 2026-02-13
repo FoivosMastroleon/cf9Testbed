@@ -1,0 +1,34 @@
+[2026-01-13 16:19:36] [INFO] === ΕΚΚΙΝΗΣΗ ΕΦΑΡΜΟΓΗΣ ===
+[2026-01-13 16:20:20] [INFO] User registered successfully: Vakycek
+[2026-01-13 16:20:33] [INFO] Χρήστης βρέθηκε: Vakycek
+[2026-01-13 16:20:49] [INFO] Χρήστης βρέθηκε: Vakycek
+[2026-01-13 16:20:49] [INFO] User logged in successfully: Vakycek
+[2026-01-13 16:20:55] [INFO] Χρήστης Vakycek προβολή στατιστικών
+[2026-01-13 16:21:15] [INFO] Χρήστης Vakycek αποσυνδέθηκε
+[2026-01-13 16:21:21] [INFO] === ΤΕΡΜΑΤΙΣΜΟΣ ΕΦΑΡΜΟΓΗΣ ===
+[2026-01-13 20:06:38] [INFO] === ΕΚΚΙΝΗΣΗ ΕΦΑΡΜΟΓΗΣ ===
+[2026-01-13 20:07:04] [WARNING] Χρήστης δεν βρέθηκε: Vakycek
+[2026-01-13 20:07:46] [INFO] User registered successfully: Vakycek
+[2026-01-14 18:20:24] [INFO] === ΕΚΚΙΝΗΣΗ ΕΦΑΡΜΟΓΗΣ ===
+[2026-01-14 18:21:00] [INFO] User registered successfully: Soroupakias
+[2026-01-14 18:21:19] [INFO] Χρήστης βρέθηκε: Soroupakias
+[2026-01-14 18:21:35] [INFO] === ΤΕΡΜΑΤΙΣΜΟΣ ΕΦΑΡΜΟΓΗΣ ===
+[2026-01-16 21:25:52] [INFO] === ΕΚΚΙΝΗΣΗ ΕΦΑΡΜΟΓΗΣ ===
+[2026-01-16 21:27:16] [INFO] User registered successfully: Tolias1
+[2026-01-16 21:27:34] [INFO] Χρήστης βρέθηκε: Tolias1
+[2026-01-16 21:27:34] [INFO] User logged in successfully: Tolias1
+[2026-01-16 21:28:05] [INFO] Χρήστης Tolias1 άλλαξε email σε: tolias@dick.com
+[2026-01-26 15:14:29] [ERROR] Could not save users to file - gr.aueb.cf.cf9.userapp.model.User
+[2026-01-26 15:14:29] [INFO] User registered successfully: Vakycek
+[2026-01-26 15:14:40] [ERROR] Could not load users from file - writing aborted; java.io.NotSerializableException: gr.aueb.cf.cf9.userapp.model.User
+[2026-01-26 15:15:11] [ERROR] Could not load users from file - writing aborted; java.io.NotSerializableException: gr.aueb.cf.cf9.userapp.model.User
+[2026-01-26 15:15:30] [ERROR] Could not save users to file - gr.aueb.cf.cf9.userapp.model.User
+[2026-01-26 15:15:30] [INFO] User registered successfully: Vakis
+[2026-01-26 15:15:31] [ERROR] Could not load users from file - writing aborted; java.io.NotSerializableException: gr.aueb.cf.cf9.userapp.model.User
+[2026-01-26 15:19:21] [ERROR] Could not load users from file. The file might be corrupted. Starting with a new user map. - writing aborted; java.io.NotSerializableException: gr.aueb.cf.cf9.userapp.model.User
+[2026-01-26 15:19:23] [ERROR] Could not load users from file. The file might be corrupted. Starting with a new user map. - writing aborted; java.io.NotSerializableException: gr.aueb.cf.cf9.userapp.model.User
+[2026-01-26 15:19:39] [INFO] User registered successfully: Vakycek
+[2026-01-26 15:19:48] [INFO] User logged in successfully: Vakycek
+[2026-01-26 15:20:29] [INFO] User logged in successfully: Vakycek
+[2026-01-31 14:10:40] [INFO] User registered successfully: vakycek
+[2026-01-31 14:10:51] [INFO] User logged in successfully: vakycek
